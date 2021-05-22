@@ -17,6 +17,17 @@ O Sistema **Meu Câmbio** possui uma interface bem intuitiva, tendo menus Númer
 - 3 - Saldo ( Exibe e Lucro baseado nas taxas aplicadas(no caso do desafio proposto são 10% para cada operação))
 - 0 - Sair ( Finaliza o sistema)
 
+Realizando uma Nova Operação
+
+- 1 O sistema irá perguntar qual o tipo de operação (Compra ou Venda: ), o usuário deve digitar Compra ou Venda dependendo da operação a ser realizada.
+- 2 O sistema irá perguntar qual a moeda (Moeda: ), o uruário deve digitar qual a moeda a ser comprada ou vendida (Dolar, Euro, Libra e etc...).
+- 3 O sistema irá perguntar qual a cotação (Cotação: ), o usuário deve digitar a cotação base(lembrando que terá uma adição ou subtração de 10% sobre o valor da cotação digitada).
+
+Relatórios
+
+- 1 O sistema irá perguntar como o usuário quer filtrar a pesquisa (Filtrar por Nome ou Data: ), o usuário então, deve digitar Nome ou Data de acordo com o tipo de filtro que deseja. Caso o sejá pelo nome o sistema irá pedir um nome e então exibirá o resultado, o mesmo vale para a pequisa por Data.
+ 
+
 Em todas as opções, após o processo ser finalizado, será exibida uma mensagem perguntando "Deseja realizar uma nova operação (Y/N)" sendo Y para sim e N para não.
 
 ---
